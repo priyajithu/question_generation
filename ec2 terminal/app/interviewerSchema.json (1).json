@@ -1,0 +1,43 @@
+{
+  "Personal_info": {
+  "name":"John Mathew",
+	"Age":"34",
+  "DOB":"19-11-1989",
+  "email":"john@gmail.com",
+  "phone":"(91)7869569810"
+	},
+
+   "location": {
+   "address": "21734 broadway st",
+   "city":"Delhi",
+   "countrycode":"1N"
+  },
+
+  "education":{
+	  "area": "Software Development",
+      "studyType": "Bachelor",
+      "endDate": "03-05-2013",
+      "score": "4.0"
+       },
+
+   "skills":{
+
+       "Softskills":[{
+             "Englishspeaking":"",
+		 "Englishwriting":"",
+		 "Leadership":""
+			}],
+
+	"Techskills":[{"python":" "},
+			  {"django":" "},
+			  {"numpy":" "},
+			  {"sklearn":" "}
+			]
+		},
+
+    "work": {
+       "position": "Developer",
+       "Experience":" "
+       }
+      
+}
